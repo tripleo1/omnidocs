@@ -1,3 +1,8 @@
+---
+title: Description
+layout: post
+---
+
 <center>
 
 # Omniscient Debugging

@@ -1,4 +1,9 @@
-center>
+---
+title: User Manual
+layout: post
+---
+
+<center>
 
 # Omniscient Debugger User Manual
 
